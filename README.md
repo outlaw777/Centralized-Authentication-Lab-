@@ -50,3 +50,4 @@ Privileged Access Management (PAM) Solutions Platforms like CyberArk, BeyondTrus
 Security Information and Event Management (SIEM) SystemsSolutions like Splunk, Elastic Security, and IBM QRadar help monitor authentication events and detect security threats
 
 
+## Steps
