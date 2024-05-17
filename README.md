@@ -56,4 +56,15 @@ Security Information and Event Management (SIEM) SystemsSolutions like Splunk, E
 
 ![Centralized authentication png2](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/8aea1e77-55a5-41ad-bf6b-0b5b450f8b0f)
 
+![Centralized authentication png3](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/4a4bcc9b-e902-46d7-a404-2256ebcd82a6)
+![Centralized authentication png4](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/920d1318-a914-4ec0-9273-bbd96d4520fe)
 
+![Centralized authentication png5](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/ca0b4878-daa9-4d66-a2dd-5dbb92a435c0)
+
+![Centralized authentication png6](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/ada82656-696c-4637-94d1-b6d8c0f4d80d)
+
+![Centralized authentication png7](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/2c49ada3-05aa-4784-9328-faf81125057f)
+
+![Centralized authentication png8](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/48b8dc64-bf5c-4b46-aaac-ed52f1b14f35)
+
+![Centralized authentication png9](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/14450c4b-b57c-40b1-8198-c02c519a5d37)
