@@ -51,3 +51,9 @@ Security Information and Event Management (SIEM) SystemsSolutions like Splunk, E
 
 
 ## Steps
+
+![Centralized authentication](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/c25f3fa5-3ac6-4727-8747-579efffa9303)
+
+![Centralized authentication png2](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/8aea1e77-55a5-41ad-bf6b-0b5b450f8b0f)
+
+
