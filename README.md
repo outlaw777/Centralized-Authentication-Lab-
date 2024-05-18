@@ -4,7 +4,7 @@
 
 
 
-## Objective
+### Objective
 
 Implement and manage centralized authentication systems to enhance security, streamline user access, and ensure consistent authentication processes across an organization's network infrastructure.
 
@@ -50,7 +50,7 @@ Implement and manage centralized authentication systems to enhance security, str
 - Security Information and Event Management (SIEM) SystemsSolutions like Splunk, Elastic Security, and IBM QRadar help monitor authentication events and detect security threats
 
 
-## Steps
+### Steps
 
 ![Centralized authentication](https://github.com/outlaw777/Centralized-Authentication-Lab-/assets/156555250/c25f3fa5-3ac6-4727-8747-579efffa9303)
 
